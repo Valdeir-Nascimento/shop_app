@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopapp/pages/components/body.dart';
+import 'package:shopapp/pages/splash/components/body.dart';
 import 'package:shopapp/size_config.dart';
 
 class SplashPage extends StatelessWidget {
